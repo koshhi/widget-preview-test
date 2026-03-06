@@ -1,6 +1,6 @@
 # Guía de elementos Markdown compatibles con GFM
 
-Este documento reúne los elementos principales de **Markdown** compatibles con **GitHub Flavored Markdown (GFM)**.
+Este documento reúne los elementos principales de **Markdown** compatibles con *GitHub Flavored Markdown (GFM)*.
 
 ## Índice
 
